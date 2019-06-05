@@ -1,0 +1,2 @@
+# MOVIE-RECOMMENDATION-SYSTEM
+Companies like Amazon, Netflix, Linkedin, and Pandora leverage recommender systems to help users discover new and relevant items (products, videos, jobs, music), creating a delightful user experience while driving incremental revenue.  Here I provide a practical overview of recommender systems. First, three major systems are reviewed: content-based, collaborative filtering, and hybrid, followed by discussions on cold start, scalability, interpretability, and exploitation/exploration.
